@@ -1,4 +1,6 @@
 #!/usr/bin/env node
-import run from '../lib/cli.js';
+console.log("lmfao");
+
+import run from "../lib/cli.js";
 
 run();
